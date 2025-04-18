@@ -1,5 +1,5 @@
 DISTRO_NAME="Ubuntu 16.04 LTS (Xenial Xerus)"
-DISTRO_COMMENT="Same website directory is used as Ubuntu 18.04(cloud-images.ubuntu.com in the buildd directory)"
+DISTRO_COMMENT="RootFS link from cloud-images.ubuntu.com in the buildd directory"
 TARBALL_URL['x86_64']="http://cloud-images.ubuntu.com/buildd/releases/xenial/release-20201111.1/xenial-server-cloudimg-amd64-root.tar.gz"
 TARBALL_SHA256['x86_64']="c173dd1f8909ad3fa7387bed35e301fa5b70fbd5fb91e4bb2f477f39d056a9c0"
 TARBALL_URL['aarch64']="http://cloud-images.ubuntu.com/buildd/releases/xenial/release-20201111.1/xenial-server-cloudimg-arm64-root.tar.gz"
