@@ -1,4 +1,4 @@
-**Since proot-distro 5.0 released, Docker images are used instead.**
+**Since proot-distro 5.0 released, Docker images are used instead.** To install the same versions uploaded, use ``proot-distro install ubuntu:18.04`` or ``proot-distro install ubuntu:20.04``. To install with the same name, use -n with "ubuntu18" or "ubuntu20".
 
 **What is proot-distro?**
 
